@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+/urlencoding
+urlencoding.so
+urlencoding.dylib
+urlencoding.dll
+urlencoding.a
+urlencoding.lib
+urlencoding-test-*
+*.exe
+*.o
+*.obj
+*.lst

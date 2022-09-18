@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"description": "Binding for liburlencoding",
+	"homepage": "https://github.com/thechampagne/liburlencoding-d",
+	"license": "MIT",
+	"name": "urlencoding"
+}
